@@ -1,0 +1,404 @@
+{
+    "employees": [
+        {
+            "empid": 1,
+            "firstName": "Eloisa",
+            "lastName": "Walters",
+            "role": "Sales Manager",
+            "department": "Sales",
+            "salary": 3500,
+            "hireDate": "01-02-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 2,
+            "firstName": "Jonas",
+            "lastName": "Miller",
+            "role": "Marketing Specialist",
+            "department": "Marketing",
+            "salary": 2800,
+            "hireDate": "05-03-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 3,
+            "firstName": "Amelia",
+            "lastName": "Griffin",
+            "role": "HR Assistant",
+            "department": "Human Resources",
+            "salary": 2300,
+            "hireDate": "06-04-2023",
+            "active": "N"
+        },
+        {
+            "empid": 4,
+            "firstName": "Liam",
+            "lastName": "Smith",
+            "role": "Software Engineer",
+            "department": "IT",
+            "salary": 4000,
+            "hireDate": "10-06-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 5,
+            "firstName": "Sophia",
+            "lastName": "Johnson",
+            "role": "Accountant",
+            "department": "Finance",
+            "salary": 3100,
+            "hireDate": "11-09-2021",
+            "active": "Y"
+        },
+        {
+            "empid": 6,
+            "firstName": "Olivia",
+            "lastName": "Williams",
+            "role": "Project Manager",
+            "department": "Operations",
+            "salary": 4500,
+            "hireDate": "08-02-2022",
+            "active": "N"
+        },
+        {
+            "empid": 7,
+            "firstName": "James",
+            "lastName": "Brown",
+            "role": "Data Analyst",
+            "department": "IT",
+            "salary": 3200,
+            "hireDate": "12-12-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 8,
+            "firstName": "Ava",
+            "lastName": "Davis",
+            "role": "Product Designer",
+            "department": "Design",
+            "salary": 3500,
+            "hireDate": "09-04-2022",
+            "active": "N"
+        },
+        {
+            "empid": 9,
+            "firstName": "Mason",
+            "lastName": "Martinez",
+            "role": "Content Writer",
+            "department": "Marketing",
+            "salary": 2800,
+            "hireDate": "02-01-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 10,
+            "firstName": "Charlotte",
+            "lastName": "Hernandez",
+            "role": "Legal Counsel",
+            "department": "Legal",
+            "salary": 3800,
+            "hireDate": "03-05-2021",
+            "active": "N"
+        },
+        {
+            "empid": 11,
+            "firstName": "Benjamin",
+            "lastName": "Gonzalez",
+            "role": "Marketing Manager",
+            "department": "Marketing",
+            "salary": 4200,
+            "hireDate": "07-07-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 12,
+            "firstName": "Isabella",
+            "lastName": "Lopez",
+            "role": "Finance Analyst",
+            "department": "Finance",
+            "salary": 3000,
+            "hireDate": "11-11-2021",
+            "active": "Y"
+        },
+        {
+            "empid": 13,
+            "firstName": "Lucas",
+            "lastName": "García",
+            "role": "Customer Service",
+            "department": "Sales",
+            "salary": 2200,
+            "hireDate": "04-06-2023",
+            "active": "N"
+        },
+        {
+            "empid": 14,
+            "firstName": "Ethan",
+            "lastName": "Perez",
+            "role": "Data Scientist",
+            "department": "IT",
+            "salary": 4500,
+            "hireDate": "06-03-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 15,
+            "firstName": "Mia",
+            "lastName": "Santiago",
+            "role": "UI/UX Designer",
+            "department": "Design",
+            "salary": 3500,
+            "hireDate": "07-09-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 16,
+            "firstName": "Henry",
+            "lastName": "Wang",
+            "role": "IT Specialist",
+            "department": "IT",
+            "salary": 3700,
+            "hireDate": "05-04-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 17,
+            "firstName": "Harper",
+            "lastName": "Evans",
+            "role": "HR Manager",
+            "department": "Human Resources",
+            "salary": 4600,
+            "hireDate": "02-10-2021",
+            "active": "Y"
+        },
+        {
+            "empid": 18,
+            "firstName": "Zoe",
+            "lastName": "Morris",
+            "role": "Operations Coordinator",
+            "department": "Operations",
+            "salary": 3200,
+            "hireDate": "11-12-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 19,
+            "firstName": "Jackson",
+            "lastName": "Rodriguez",
+            "role": "Sales Representative",
+            "department": "Sales",
+            "salary": 2800,
+            "hireDate": "01-01-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 20,
+            "firstName": "Lily",
+            "lastName": "King",
+            "role": "Executive Assistant",
+            "department": "Operations",
+            "salary": 3100,
+            "hireDate": "12-03-2023",
+            "active": "N"
+        },
+        {
+            "empid": 21,
+            "firstName": "Ella",
+            "lastName": "Lee",
+            "role": "Social Media Manager",
+            "department": "Marketing",
+            "salary": 3000,
+            "hireDate": "03-08-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 22,
+            "firstName": "Gabriel",
+            "lastName": "Nguyen",
+            "role": "Chief Technical Officer",
+            "department": "IT",
+            "salary": 5500,
+            "hireDate": "01-09-2021",
+            "active": "Y"
+        },
+        {
+            "empid": 23,
+            "firstName": "Aiden",
+            "lastName": "Walker",
+            "role": "Business Analyst",
+            "department": "Operations",
+            "salary": 3300,
+            "hireDate": "06-02-2023",
+            "active": "N"
+        },
+        {
+            "empid": 24,
+            "firstName": "Chloe",
+            "lastName": "Adams",
+            "role": "Content Marketing Specialist",
+            "department": "Marketing",
+            "salary": 2800,
+            "hireDate": "01-05-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 25,
+            "firstName": "Jack",
+            "lastName": "Nelson",
+            "role": "Business Development Manager",
+            "department": "Sales",
+            "salary": 4200,
+            "hireDate": "10-07-2021",
+            "active": "Y"
+        },
+        {
+            "empid": 26,
+            "firstName": "Grace",
+            "lastName": "Scott",
+            "role": "Product Manager",
+            "department": "Operations",
+            "salary": 4400,
+            "hireDate": "04-01-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 27,
+            "firstName": "Maverick",
+            "lastName": "Green",
+            "role": "Database Administrator",
+            "department": "IT",
+            "salary": 4000,
+            "hireDate": "07-11-2022",
+            "active": "N"
+        },
+        {
+            "empid": 28,
+            "firstName": "Emma",
+            "lastName": "Perez",
+            "role": "Legal Assistant",
+            "department": "Legal",
+            "salary": 2800,
+            "hireDate": "02-03-2023",
+            "active": "N"
+        },
+        {
+            "empid": 29,
+            "firstName": "Alexander",
+            "lastName": "Reed",
+            "role": "Solutions Architect",
+            "department": "IT",
+            "salary": 5000,
+            "hireDate": "12-12-2021",
+            "active": "Y"
+        },
+        {
+            "empid": 30,
+            "firstName": "Scarlett",
+            "lastName": "Bailey",
+            "role": "Copywriter",
+            "department": "Marketing",
+            "salary": 2900,
+            "hireDate": "01-06-2022",
+            "active": "Y"
+        },
+        {
+            "empid": 31,
+            "firstName": "Evelyn",
+            "lastName": "Turner",
+            "role": "Office Manager",
+            "department": "Operations",
+            "salary": 3300,
+            "hireDate": "05-10-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 32,
+            "firstName": "Wyatt",
+            "lastName": "Mitchell",
+            "role": "SEO Specialist",
+            "department": "Marketing",
+            "salary": 3100,
+            "hireDate": "09-09-2022",
+            "active": "N"
+        },
+        {
+            "empid": 33,
+            "firstName": "Victoria",
+            "lastName": "Carter",
+            "role": "Network Engineer",
+            "department": "IT",
+            "salary": 3900,
+            "hireDate": "03-06-2021",
+            "active": "Y"
+        },
+        {
+            "empid": 34,
+            "firstName": "Joseph",
+            "lastName": "Reed",
+            "role": "HR Consultant",
+            "department": "Human Resources",
+            "salary": 2800,
+            "hireDate": "12-08-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 35,
+            "firstName": "Hannah",
+            "lastName": "Campbell",
+            "role": "Brand Manager",
+            "department": "Marketing",
+            "salary": 4000,
+            "hireDate": "01-01-2022",
+            "active": "N"
+        },
+        {
+            "empid": 36,
+            "firstName": "Sebastian",
+            "lastName": "Roberts",
+            "role": "IT Administrator",
+            "department": "IT",
+            "salary": 3400,
+            "hireDate": "02-04-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 37,
+            "firstName": "Lillian",
+            "lastName": "Phillips",
+            "role": "Public Relations Manager",
+            "department": "Marketing",
+            "salary": 3800,
+            "hireDate": "07-03-2022",
+            "active": "N"
+        },
+        {
+            "empid": 38,
+            "firstName": "Julian",
+            "lastName": "Howard",
+            "role": "Cybersecurity Specialist",
+            "department": "IT",
+            "salary": 4700,
+            "hireDate": "04-07-2021",
+            "active": "Y"
+        },
+        {
+            "empid": 39,
+            "firstName": "Aurora",
+            "lastName": "Torres",
+            "role": "Coordinator",
+            "department": "Operations",
+            "salary": 2900,
+            "hireDate": "06-05-2023",
+            "active": "Y"
+        },
+        {
+            "empid": 40,
+            "firstName": "Nicholas",
+            "lastName": "Murphy",
+            "role": "Legal Advisor",
+            "department": "Legal",
+            "salary": 3600,
+            "hireDate": "10-02-2022",
+            "active": "Y"
+        }
+    ]
+}

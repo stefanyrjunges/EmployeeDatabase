@@ -1,0 +1,178 @@
+body {
+    font-family: "Inconsolata";
+    background-color: #E5E4E2;
+    /* fade in */
+    animation: fadeInAnimation ease 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    }
+
+/* fade in */
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/* containers */
+/* containers index page */
+.container {
+    background-color: #D3D3D3;
+    color:#595f62	;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    line-height: 0;
+    height: 300px;
+    margin-left:30%;
+    margin-top:13%;
+    width: 608px;
+    }
+
+    
+ .container_two {
+    background-color: #eee;
+    color:black;
+    display: flex;
+    flex-direction: column;
+    margin-top:-30px;
+    line-height: 0;
+    margin-left:30%;
+    width: 608px;
+    }
+    
+/* default container for other pages */
+ .container-database {
+    background-color: #D3D3D3;
+    color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    line-height: 1.5;
+    height: 600px;
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 608px;
+    padding:10px;
+    text-align: justify;
+    }
+
+/* customising navbar */
+.custom-navbar{
+    background-color: #eee;
+    }
+
+.nav-link:hover{
+    color:black;
+}
+
+
+#logIn-container{
+    padding:10px;
+    text-align: justify;
+}
+
+
+/* buttons and labels */
+#dashboardBTN {
+    width:100%;
+    }
+
+#resplbl {
+    font-size:10px;
+    }
+
+#title {
+    margin-top:40px;
+    }   
+
+form input {
+    margin-bottom: 5px;
+    }
+
+/* titles and descriptions */
+h1{
+    margin-top:20px;
+}
+
+h2{
+    text-transform: uppercase;
+    font-size:18px;
+    font-style: bold;
+}
+
+h3{
+    text-transform:uppercase;
+    font-size:18px;
+    color:red;
+}
+
+p{
+    float:right;
+    padding:10px;
+    margin-left:30px;
+    margin-right:30px
+}
+
+#info{
+    margin:0px;
+}
+
+/* personalising different colours */
+c{
+    color:green;
+}
+
+red{
+    color:red;
+}
+
+/* modal for data visualisation */
+.modal-dialog{
+    max-width: 55%;
+    height:700px;
+}
+
+.modal-body{
+    height: 700px;
+    overflow-y: auto;
+}
+
+.form-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    align-items: center;
+  }
+
+/* messages that are hidden and will display if an event is triggered */
+#message {
+    border-bottom: 1px solid red;
+    color: red;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    align-items: center;
+}
+
+#message_login {
+    margin-left:30%;
+    margin-top:13%;
+    border-bottom: 1px solid red;
+    color: red;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    align-items: center;
+}
+
+#foundEmployeeMessage {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    align-items: center;
+}

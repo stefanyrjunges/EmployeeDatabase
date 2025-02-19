@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee database</title>
+
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- p5 library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+    
+     <!-- External JavaScript -->
+    <script language="javascript" type="text/javascript" src="script.js"></script>
+
+</head>
+<body>
+    <div class="container">
+
+        <h1 id="title">EMPLOYEE DATABASE</h1>
+        <h2>Centralised database for employee management</h2>
+
+        <img src="data.png" id="database" width="300px">
+
+    </div>
+
+    <div class="container_two">
+        
+        <p id="info">Status: <c>available</c> | <red>Attention</red>: next server maintenance scheduled Jan/2025</p>
+
+        <button type="button" id="accessBTN">Access</button>
+
+        <div id="logIn-container" style="display:none;">
+
+            <label for="usernameInput">Username:</label>
+            <input type="text" id="usernameInput">
+            
+            <label for="passwordInput">Password:</label>
+            <input type="password" id="passwordInput">        
+        
+            <button type="button" id="dashboardLogInBTN">Log in</button>
+    
+        </div>
+    </div>
+
+    <br>
+    
+    <div id="message_login" style="display:none;"></div>
+    
+</body>
+</html>
